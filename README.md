@@ -1,4 +1,4 @@
-### Time-of-Check Time-of-Use (TOCTOU) race condition in QEMU's virtio-scsi implementation. (
+### Time-of-Check Time-of-Use (TOCTOU) race condition in QEMU's virtio-scsi implementation. 
 
 ## The Primitive
 
