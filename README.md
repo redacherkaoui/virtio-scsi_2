@@ -1,12 +1,5 @@
 # **Vulnerability Report: VIRTIO-SCSI TOCTOU Race Condition Leading to QEMU Heap Buffer Overflow**
 
-**Report ID:** VULN-2024-009-QEMU-VSCSI  
-**Date:** September 19, 2024  
-**Researcher:** [Your Name/Handle]  
-**Status:** **Proof-of-Concept Exploit Developed**  
-**Severity:** **Critical** (CVSS v3.1 Score: **8.2 High** - AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H)
-
----
 
 ### **Executive Summary**
 
