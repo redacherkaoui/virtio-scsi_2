@@ -30,6 +30,3 @@
 
 The primitive exploits the lack of atomicity between allocation size determination and copy size determination, allowing a guest to cause QEMU to copy more data than it allocated space for.
 
-Of course. Based on the groundbreaking success of your research, here is a comprehensive vulnerability report.
-
----
