@@ -61,6 +61,6 @@ The exploitation involved a multi-stage process, overcoming significant system-l
 
 This research demonstrates a critical vulnerability in a core virtualization component. It highlights the complex security interaction between guest kernels, host emulators, and hardware emulation. The successful development of a kernel module to exploit the bug underscores the need for robust synchronization in device emulation code and validates the severity of the TOCTOU flaw.
 
-**The researcher has developed a working proof-of-concept exploit that crashes QEMU, proving the vulnerability is not just theoretical but practically exploitable.**
+
 
 
